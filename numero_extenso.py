@@ -1,4 +1,5 @@
-lista1=[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,20,30,"de"]
+listadez=["quarenta","cinquenta", "sessenta", "setenta", "oitenta", "noventa"]
+listacent=["cem","cento", "duzentos", "trezentos", "centos", "mil"]
 lista2=["","um","dois","tres","quatro","cinco","seis","sete","oito","nove","dez","onze","doze","treze","quatorze","quinze","vinte","trinta","de"]
 meses=["","janeiro","fevereiro","marco","abril","maio","junho","julho","agosto","setembro","outrubro","novembro","dezembro"]
 x=input("digite um numero: ")
